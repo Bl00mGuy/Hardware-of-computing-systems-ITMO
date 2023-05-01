@@ -1,2 +1,2 @@
 # Electronic-Computer-ITMO-semester_2
-(Лабы/ДЗ) ЭВМ ИСy26
+(Лабораторные/ДЗ) ЭВМ ИСy26
